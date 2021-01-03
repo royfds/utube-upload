@@ -1,7 +1,7 @@
 
 class Messages:
 
-    START_MSG = "Hi there {}.\n\nI'm Youtube Uploader Bot.You can use me to upload any telegram video to youtube once you authorise me.You can know more from /help.\n\nThank you."
+    START_MSG = "Hi there {}.\n\nI'm Youtube Uploader Bot.You can use me to upload any telegram video to youtube once you authorise me.You can know more from /help.\n\nThank you. Bt By [Venila Bots](t.me/venilabots)"
 
     HELP_MSG = [
         ".",
@@ -13,7 +13,7 @@ class Messages:
 
         "**Verify your YouTube account**\n\nYoutube take spam and abuse very seriously. So you are asked to verify your Youtube account. Once you've verified your account, you will be able to upload videos longer than 15 minutes. If you haven't verified your account every video uploaded which are longer than 15 minutes will be removed.\n[Verify your Youtube account here.](http://www.youtube.com/verify)\n\n__Remember to verify your project, else your uploads will be kept private.__",
 
-        "**Now lets authorise.**\n\nYou need to give me the access to upload videos to your Youtube account.For that open the given link and allow access and copy the code. Come back here and type `/authorise copied-code` and send it.\n\n**Fear not!**\nI'm not a hacker or someone who wants to creep into people's privacy. I respect one's privacy. I'm here just to help anyone who wants help. If I was a hacker I won't be sitting here writing Telegram Bots."
+        "**Now lets authorise.**\n\nYou need to give me the access to upload videos to your Youtube account.For that open the given link and allow access and copy the code. Come back here and type `/authorise copied-code` and send it.\n\n**Fear not!*\n We team @Venilabots are  not a hacker or someone who wants to creep into people's privacy. My devs respect one's privacy. I'm here just to help anyone who wants help. If I was a hacker my owner won't be sitting here writing Telegram Bots."
     ]
 
     NOT_A_REPLY_MSG = "Please reply to some video file."
@@ -24,13 +24,13 @@ class Messages:
     
     DAILY_QOUTA_REACHED = "Looks like you are trying to upload more than 6 videos today! By default youtube only allows about 6 uploads daily, so this request might fail!!"
 
-    PROCESSING = "Processing....."
+    PROCESSING = "WORKING ./././"
 
     NOT_AUTHENTICATED_MSG = "You have not authenticated me to upload video to any account. see /help to authenticate"
 
     NO_AUTH_CODE_MSG = "There is no code. Please provide some code"
 
-    AUTH_SUCCESS_MSG = "Congrats, you have successfully authenticated me to upload to Youtube.\nHappy uploading!"
+    AUTH_SUCCESS_MSG = "Congrats, you have successfully authenticated me to upload to Youtube.\nHappy uploading! DO JOIN @Venilabots"
 
     AUTH_FAILED_MSG = "Authentication failed\nDetails:{}"
     
