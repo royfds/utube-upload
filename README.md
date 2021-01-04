@@ -3,7 +3,7 @@
 > Simple [Telegram Bot](https://core.telegram.org/bots "Telegram Bots") to Upload videos to [Youtube](https://youtube.com "YouTube") written in Python3.
 
 
-##DISCLAIMER
+### DISCLAIMER
 ```
 WE THE TEAM VENILA BOTS ARE NOT RESPONSIBLE FOR THE 
 THIRD OAUTH APPLICATION LIKE YOUTUBE ETC, IF YOU MISUSE 
@@ -11,6 +11,7 @@ THIS BOT FOR OTHER WORKS. AND YOU GOT COPYRIGHT AND POINT
 US, THEN OUR TEAM WILL BE ROLLING IN FLOOR LAUGHING AT YOU
 AND WILL NEVER CARE AT ALL
 ```
+
 
 ### CREDITS
 * GITHUB
@@ -39,7 +40,7 @@ $ source venv/bin/activate
 
 ```
 
-**Environment Variables**
+**Env**
 
 * `BOT_TOKEN`(Required) - Get your bot token from [Bot Father](https://tx.me/BotFather "Bot Father").
 * `SESSION_NAME`(optional) - Your bot's username.
@@ -78,6 +79,7 @@ If you did everything correctly, the bot should be running. Go do `/start` to se
 
 
 **Or the easy way of directly deploying to heroku**
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/rohithaditya/utube-upload)
 
 
@@ -92,8 +94,9 @@ This project is actively maintained and will continue so until I'm tired of it.
 * Uploading copyright contents will leads to immediate blocking of the video.
 
 * By default, all the videos are uploaded as private with random category id unless you provide `UPLOAD_MODE` and `VIDEO_CATEGORY`. You may change it after youtube processes the video.
- 
-### Contact
+
+### SUPPORT AND CONTACT 
+<a href="https://t.me/venilabots"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
 You can contact us [VENILA BOTS](https://telegram.dog/Venilabots "VENILABOTS").
 
