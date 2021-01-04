@@ -1,5 +1,4 @@
-# [Youtube Uploader Bot By Venila Bots](https://tx.me/Venilabots
-)
+# [Youtube Uploader Bot By Venila Bots](https://tx.me/Venilabots)
 
 > Simple [Telegram Bot](https://core.telegram.org/bots "Telegram Bots") to Upload videos to [Youtube](https://youtube.com "YouTube") written in Python3.
 
