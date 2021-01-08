@@ -15,5 +15,5 @@ log = logging.getLogger(__name__)
     & ~Filters.user(Config.AUTH_USERS)
 )
 async def _non_auth_usr_msg(c, m):
-    await m.delete(True)
+    await m.delete(false)
     log.info(f"{Config.AUTH_USERS} Unauthorised user {m.chat} contacted. Message {m} deleted!!")
