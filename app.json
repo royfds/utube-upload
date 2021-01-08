@@ -1,7 +1,7 @@
 {
   "name": "Youtube Upload Bot",
-  "description": "Telegram to YouTube Uploader Bot",
-  "repository": "https://github.com/odysseusmax/utube",
+  "description": "Telegram to YouTube Uploader Bot By Team Venila Bots",
+  "repository": "https://github.com/rohithaditya/utube-upload",
   "logo": "https://github.com/odysseusmax/utube/blob/master/ss/logo.jpeg",
   "keywords": ["telegram", "youtube", "uploader"],
   "env": {
@@ -35,7 +35,7 @@
       "value": ""
     },
     "AUTH_USERS": {
-      "description": "Telegram id of authorised users, separated by comma",
+      "description": "Telegram id of authorised users, separated by comma,{Example : Your seacond id}",
       "value": "",
       "required":false
     },
