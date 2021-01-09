@@ -1,4 +1,4 @@
-# [Youtube Uploader Bot By Venila Bots](https://tx.me/Venilabots)
+# [Youtube Uploader Bot By Roy Bots](https://t.me/royfds)
 
 > Simple [Telegram Bot](https://core.telegram.org/bots "Telegram Bots") to Upload videos to [Youtube](https://youtube.com "YouTube") written in Python3.
 ## See This 
@@ -6,7 +6,7 @@ https://youtu.be/KzVA4vvmRW4
 
 ### DISCLAIMER
 ```
-WE THE TEAM VENILA BOTS ARE NOT RESPONSIBLE FOR THE 
+WE THE TEAM ROY BOTS ARE NOT RESPONSIBLE FOR THE 
 THIRD OAUTH APPLICATION LIKE YOUTUBE ETC, IF YOU MISUSE 
 THIS BOT FOR OTHER WORKS. AND YOU GOT COPYRIGHT AND POINT
 US, THEN OUR TEAM WILL BE ROLLING IN FLOOR LAUGHING AT YOU
@@ -16,7 +16,7 @@ AND WILL NEVER CARE AT ALL
 
 ### CREDITS
 * GITHUB
-* @odysseusmax
+* @ROYFDS
 * And Our Team 
 
 ### Libraries Used
@@ -97,9 +97,9 @@ This project is actively maintained and will continue so until I'm tired of it.
 * By default, all the videos are uploaded as private with random category id unless you provide `UPLOAD_MODE` and `VIDEO_CATEGORY`. You may change it after youtube processes the video.
 
 ### SUPPORT AND CONTACT 
-<a href="https://t.me/venilabots"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/ROYFDS"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
 
-You can contact us [VENILA BOTS](https://telegram.dog/Venilabots "VENILABOTS").
+You can contact us [ROY BOTS](https://telegram.dog/ROYFDS "ROYBOTS").
 
 ### License
 Code released under [GNU General Public License v3.0](LICENSE).
